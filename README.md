@@ -2,7 +2,8 @@ Digalo con mimica (peliculas)
 =============================
 
 Es un mini proyecto para divertirse un rato jugando, surgío de las ganas de jugar en las fiestas con la familia y amigos.
-Podes ver el proyecto andando [aquí](http://berenjena.com.ar/mimica/) 
+
+> Podes ver el proyecto andando [aquí](http://berenjena.com.ar/mimica/) 
 
 ---------------
 
