@@ -1,0 +1,11 @@
+{
+	"Peliculas": [
+		{"id":"1", "nombre":"Titanic", "año":"(1997)"},
+		{"id":"2", "nombre":"Volver al futuro I", "año":"(1985)"},
+		{"id":"3", "nombre":"Volver al futuro II", "año":"(1989)"},
+		{"id":"4", "nombre":"Volver al futuro III", "año":"(1990)"}
+	]
+}
+
+
+

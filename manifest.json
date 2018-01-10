@@ -1,0 +1,12 @@
+{
+	"name": "Digalo con Mimica",  
+	"short_name": "Mimica",
+	"description": "Es un juego donde tu grupo debe adivinar la pelicula antes que el tiempo se agote.",
+	"author": "Favio Barnatan",
+
+	"start_url": "/mimica", 
+	"theme_color": "black", 
+	"background_color": "white",
+	"orientation": "landscape",
+	"display": "fullscreen" //"browser"
+}
